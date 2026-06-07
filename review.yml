@@ -1,0 +1,11 @@
+name: Turin Open Data
+url: https://raw.githubusercontent.com/api-evangelist/aperto-comune-torino-it/refs/heads/main/review.yml
+created: '2026-06-07'
+modified: '2026-06-07'
+reviews:
+  - date: '2026-06-07'
+    rating: 4
+    summary: Live CKAN API verified (v2.9.11), ~2,076 datasets.
+    endpoints:
+      - url: https://aperto.comune.torino.it/api/3/action/status_show
+        status: 200
