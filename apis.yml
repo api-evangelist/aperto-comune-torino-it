@@ -40,6 +40,8 @@ apis:
       - type: x-ckan-version
         value: '2.9.11'
 common:
+  - type: DomainSecurity
+    url: security/aperto-comune-torino-it-domain-security.yml
   - type: Website
     url: https://aperto.comune.torino.it
   - type: Documentation
